@@ -221,7 +221,7 @@ function sortByBit(arr) {
     let bb = b.toString(BASE);
     let aaBitsCounter = (aa.match(REG_EXP) || []).length;
     let bbBitsCounter = (bb.match(REG_EXP) || []).length;
-        
+
     if (aaBitsCounter &gt; bbBitsCounter) return 1;
     if (aaBitsCounter &lt; bbBitsCounter) return -1;
     return a - b;
