@@ -1,6 +1,6 @@
 # Eugene Kuzora
 
-## Junior Frontend developer
+## Junior Front-End Developer
 
 ## Software Engineer in Test
 
@@ -20,7 +20,7 @@ _____________
 ### Summary
 
 * Courteous and enthusiastic, i am interested in IT and everything in its orbit
-* Front end engineer which is recently began to be fascinated by web programming
+* Front-End engineer which is recently began to be fascinated by web programming
 * Senior Software Test Automation engineer with a good understanding of test methodologies and testing processes as part of the most commonly used development methodologies
 * Understanding of project documentation: test planning, test cases and test result reports, etc
 * Hands-on experience with different kinds of testing: Functional, Domain, GUI testing etc
