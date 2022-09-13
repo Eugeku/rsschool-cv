@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<title>HTML, CSS &amp; Git Basics</title>
         <link rel="stylesheet" type="text/css" href="css/reset.css">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
         <meta name="description" content="CV Eugene Kuzora">
         <meta name="keywords" content="HTML,CSS,JavaScript,Skills,CV,Front-end developer,Developer">
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,9 +44,9 @@
             <h2>Software Engineer in Test</h2>
             <h2>Junior Front-end developer</h2>
         </header>
-        
+
         <div class="content-wrapper">
-            <aside class="contacts-sidebar"> 
+            <aside class="contacts-sidebar">
                 <img id="self-image" alt="Eugene personal photo" src="images/photo.jpg">
                 <section id="contacts-list">
                     <h2>Contacts:</h2>
@@ -212,11 +212,11 @@
                     <h2>Code examples:</h2>
                     <pre class="code-example">
                         <code>
-function sortByBit(arr) { 
+function sortByBit(arr) {
   arr.sort(function(a, b) {
     const BASE = 2;
     const REG_EXP = new RegExp("1", "g");
-        
+
     let aa = a.toString(BASE);
     let bb = b.toString(BASE);
     let aaBitsCounter = (aa.match(REG_EXP) || []).length;
