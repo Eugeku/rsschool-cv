@@ -5,6 +5,7 @@
 ## Software Engineer in Test
 
 ![Eugene personal photo](/images/photo.jpg)
+
 _____________
 
 ### Contacts
@@ -48,6 +49,7 @@ Kanban             | Browserstack                 | --
 --                 | TestNG, JUnit                | --
 --                 | Report Portal, Allure report | --
 --                 | Selenium wd                  | --
+
 _____________
 
 ### Work experience
@@ -59,6 +61,7 @@ Aug-2017 - Till now (Sep-2022) - Software Test Automation Engineer, EPAM Systems
      - Development and support of test automation frameworks and related documentation;
      - Bug reporting;
      - Creation of test cases.
+
 _____________
 
 ### Education
