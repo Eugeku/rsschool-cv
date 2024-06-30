@@ -96,8 +96,8 @@ function sortByBit(arr) {
 }
 ```
 
-* https://github.com/Eugeku/todo-back
-* https://github.com/Eugeku/rsschool-cv
+* [https://github.com/Eugeku/todo-back](https://github.com/Eugeku/todo-back)
+* [https://github.com/Eugeku/rsschool-cv](https://github.com/Eugeku/rsschool-cv)
 
 _____________
 
