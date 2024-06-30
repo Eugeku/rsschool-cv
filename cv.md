@@ -2,7 +2,7 @@
 
 ## Junior Front-End Developer
 
-<img src="" alt="Eugene personal photo" width="200px" />
+<img src="./images/photo.jpg" alt="Eugene personal photo" width="200px" />
 
 _____________
 
