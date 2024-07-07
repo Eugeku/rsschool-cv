@@ -38,8 +38,8 @@ Communication      | Gradle	                      | JavaScript
 Creativity         | Ant                          | SQL
 Critical Thinking  | Docker                       | SAP(Hybris)
 Problem Solving	   | Kubernetes	                  | Groovy
-Visual Thinking	   | Spring Boot	              | Java
-Adaptability	   | Jenkins                      | Visual testing
+Visual Thinking	   | Spring Boot	                | Java
+Adaptability	     | Jenkins                      | Visual testing
 Work Ethic	       | Jira                         | Accessibility testing
 Scrum              | Wiremock                     | Rest API testing
 Kanban             | Browserstack                 | --
@@ -97,6 +97,7 @@ function sortByBit(arr) {
 ```
 
 * [https://github.com/Eugeku/todo-back](https://github.com/Eugeku/todo-back)
+* [https://github.com/Eugeku/APIWebDriverHT](https://github.com/Eugeku/APIWebDriverHT)
 * [https://github.com/Eugeku/rsschool-cv](https://github.com/Eugeku/rsschool-cv)
 
 _____________
